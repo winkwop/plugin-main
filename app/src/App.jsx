@@ -5,9 +5,7 @@ import '@uvodohq/admin-ui/dist/style.css'
 function App() {
 
     return (
-        <AdminLayout>
           <H1>Your Plugin Name</H1>
-        </AdminLayout>
     )
 }
 
